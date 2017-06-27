@@ -1,0 +1,214 @@
+#brand
+{
+	color:yellow;
+	font-size:24px;
+	opacity:1;
+	text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87;
+}
+#brand-tag
+{
+	color:#FF5A73;
+	opacity:1;
+}
+.navb
+{	
+	background:rgba(0,0,0,0.75);
+	!opacity:0.8;
+	position:fixed;
+	
+}
+
+#navbar-logo
+{
+	position:relative;
+}
+#lis-style li a
+{
+	font-size:22px;
+}
+#box-wrapper
+{
+	background-image:url("76.jpg");
+	<!--background-attachment:fixed;
+	margin-top:.5%;	
+	width:100%;	
+	height:auto;
+	!display:block;
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
+	min-height:650px;
+}
+#foot
+{
+	border:1px solid yellow;
+	border-radius:8px 8px 8px 8px;
+	background-color:grey;
+	border-width:85px;
+	border-left-width:45px;
+	border-right-width:45px;
+	float:bottom;
+}
+#top-margin
+{
+	margin-top:30%;
+	!position:absolute;
+	
+}
+#ads
+{
+	background:rgba(0,0,0,0.8);
+	margin-top:6%;
+	padding-bottom:4%;
+}
+#ro1
+{
+	font-size:75px;
+	padding-top:2%;
+	color:white;
+	font-family:Agency FB;
+	font-weight:bold;
+	text-shadow:0 0 0.2em #080808, 0 0 0.2em #080808;
+}
+#ro2
+{
+	font-size:35px;
+	color:white;
+}
+#ro3
+{
+	font-size:25px;
+	color:white;
+	
+}
+#ro4
+{
+	font-size:21px;
+	color:white;
+	border:1px solid black; 
+	padding:1.5%;
+	background-color:maroon;
+	
+}
+#ro4 a
+{
+	text-decoration:none;
+	color:white;
+	text-shadow: 0 0 0.1em #FFFFFF, 0 0 0.1em #FFFFFF;
+}
+#rowvi
+{
+	background:rgba(240,240,240,0.8);
+	padding-top:5%;
+	padding-bottom:3%;
+}
+#vids
+{
+	!padding-left:5%;
+}
+#vids iframe
+{
+	
+	width:420px;
+	height:240px;
+
+}
+#vids-about
+{
+	!padding-right:5%;
+}
+#client
+{
+	background-color:white;
+}
+#bp
+{
+	width:200px;
+	height:80px;
+	padding-right:2%;
+	padding-left:2%;
+}
+#descrypt
+{
+	background-color:#ff3333;
+	padding-left:5%;
+	padding-right:5%;
+	padding-bottom:1%;
+}
+#img-part
+{
+	position:static;
+}
+#our
+{
+	background-color:#383232;
+	padding-top:3%;
+	padding-bottom:3%;
+}
+#op
+{
+	!text-decoration:underline;
+	!border-radius:10px;
+	t!ext-decoration-color:red;
+	color:white;
+	font-family:Algerian;
+	font-size:39px;
+}
+#process-col
+{
+	padding-top:3%;
+}
+#process
+{
+	color:red;
+	font-family:Agency FB;
+	font-size:25px;
+	font-weight:bold;
+	text-shadow:0 0 0.2em #080808, 0 0 0.2em #080808;
+}
+p1
+{
+	color:white;
+	font-size:20px;
+	
+}
+#instra-part
+{
+	background-color:white;
+	padding-top:3%;
+	padding-bottom:2%;
+}
+#instruct
+{
+	color:black;
+	font-family:Agency FB;
+	font-size:55px;
+	font-weight:bold;
+	text-shadow:0 0 0.2em ##7A7777, 0 0 0.2em ##7A7777;
+}
+#left-man
+{
+	padding-left:55%;
+	padding-right:10%;
+	padding-top:2%;
+}
+#marty-h
+{
+	font-size:20px;
+	color:red;
+	padding-bottom:2%;
+}
+#instructs
+{
+	overflow-x:auto;
+}
+#marty img
+{
+	border:.5px solid black;
+	height:10%;
+	width:55%;
+}
+.foot
+{
+	background-color:black;
+}
